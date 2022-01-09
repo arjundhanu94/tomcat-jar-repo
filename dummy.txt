@@ -1,8 +1,2 @@
-This is a dummy file
-This is a dummy file generated on 2022.01.09-07.58.10
-This is a dummy file generated on 2022.01.09-07.59.25
-This is a dummy file generated on 2022.01.09-08.01.38
-This is a dummy file generated on 2022.01.09-08.34.47
-dummy.txt-2022.01.09-08.34.47
-This is a dummy file generated on 2022.01.09-08.35.41
-dummy.txt-2022.01.09-08.35.41
+This is a dummy file generated on 2022.01.09-08.37.45
+dummy.txt-2022.01.09-08.37.45
